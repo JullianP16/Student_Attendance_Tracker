@@ -1,0 +1,9 @@
+#boxStyle {
+    
+border-radius: 15px; 
+background: linear-gradient(0deg,rgba(136, 216, 163, 1) 0%, rgba(33, 112, 41, 1) 100%);
+color: rgb(255, 255, 255);
+text-shadow: 2px 2px 4px #000000;
+border: 2px;
+
+}

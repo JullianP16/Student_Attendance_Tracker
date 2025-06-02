@@ -1,0 +1,47 @@
+.register
+{
+	border: 10px solid green;
+	background: lightgreen;
+	border-radius: 10px;
+	text-align: center;
+	margin: auto;
+	min-width:300px;
+	width: 20%;
+	height: 350px;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+button
+{
+	padding: 10px 20px;
+	border-color: green;
+	border-radius: 5px; 
+	border-width: 3px;
+	background-color: lightgreen;
+}
+
+button:hover
+{
+	background-color: white;
+}
+
+#createUser{
+	text-decoration: none; 
+	color: black;
+	padding: 8px 12px; 
+	border-radius: 5px; 
+	padding: 10px 20px;
+	background-color: rgb(51, 110, 51);
+	border-color: green;
+	border: 3px;
+}
+
+#createUser:hover{
+	background-color: white;
+}
