@@ -10,8 +10,8 @@ function sendOTP($recipientEmail, $otp) {
     $mail = new PHPMailer(true);
 
     // Credentials for sending
-    $your_email = "webtechnologies696@gmail.com";
-    $your_password = "dspzuilenibvaorp"; // <-- This is your App Password (no spaces)
+    $your_email = "your_email@example.com";
+    $your_password = "your_email_password"; // <-- This is your App Password (no spaces)
 
     try {
         // Server settings
