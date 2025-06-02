@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'attendance_schema';
 $user = 'root';
-$pass = "";
+$pass = "your_db_password";
 $charset = 'utf8mb4';
 $port = 3306;
 
